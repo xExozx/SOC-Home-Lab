@@ -28,15 +28,15 @@ Ref 1: Downloaded vm kali linux and iso windows 10.
 
 <img width="1072" height="882" alt="changing network to internal network" src="https://github.com/user-attachments/assets/402813dd-4de8-4ca0-a0ca-8a7d7772caca" />
 
-Ref 2: changing network to internal network.
+Ref 2: Changing network to internal network.
 
 <img width="1020" height="851" alt="manually changing ipv4 to 192 168 20 10" src="https://github.com/user-attachments/assets/cacd6644-a914-40b0-8698-648af4197b3b" />
 
-Ref 3: manually changing ipv4 to 192.168.20.10.
+Ref 3: Manually changing ipv4 to 192.168.20.10.
 
 <img width="958" height="375" alt="network confirmation" src="https://github.com/user-attachments/assets/8d065078-cf01-4efc-abd5-0abae99e4e71" />
 
-Ref 4: network confirmation
+Ref 4: Network confirmation.
 
 <img width="1280" height="878" alt="configuring ipv4 on kali" src="https://github.com/user-attachments/assets/bb6663e0-ef3d-4b11-bbb7-be9ebc6f5430" />
 
@@ -44,7 +44,7 @@ Ref 5: Configuring ipv4 on kali.
 
 <img width="637" height="513" alt="if config to confirm change to ip address" src="https://github.com/user-attachments/assets/a40921b3-0b1f-4f46-9199-358fab405e8b" />
 
-Ref 6: if config to confirm change to ip address.
+Ref 6: If config to confirm change to ip address.
 
 <img width="1022" height="855" alt="connectivity for both mechines" src="https://github.com/user-attachments/assets/e7371b4a-f6c7-4c2e-88ea-4e6605f8e4e7" />
 
@@ -64,7 +64,7 @@ Ref 10: Turned off windows defender.
 
 <img width="1003" height="847" alt="downloading splunk onto windows 10vm" src="https://github.com/user-attachments/assets/278fe699-fc6c-494b-b70d-c11fc9d7c2ba" />
 
-Ref 11: downloading splunk onto windows 10vm.
+Ref 11: Downloading splunk onto windows 10vm.
 
 <img width="1023" height="852" alt="adding event logs options" src="https://github.com/user-attachments/assets/1dbf3d0e-bf00-421a-bbc0-e9d2204eb215" />
 
@@ -104,7 +104,7 @@ Ref 20: Going to use this attack.
 
 <img width="930" height="47" alt="generate malware using meterpeter tcp payload to go to lhost and lport, file will be exe and filename will be resume pdf exe" src="https://github.com/user-attachments/assets/dd7d106a-26a3-4b40-94e6-7b46a8d782d0" />
 
-Ref 21: generate malware using meterpeter tcp payload to go to lhost and lport, file will be exe and filename will be resume.pdf.exe.
+Ref 21: Generate malware using meterpeter tcp payload to go to lhost and lport, file will be exe and filename will be resume.pdf.exe.
 
 <img width="676" height="182" alt="ls to make sure file exist and what type of file we have" src="https://github.com/user-attachments/assets/f10883a9-759f-4dbd-8c62-293ca53950f5" />
 
@@ -148,11 +148,11 @@ Ref 31: Started exploit.
 
 <img width="563" height="326" alt="setup a quick http server so our test machine can download malware" src="https://github.com/user-attachments/assets/32c17b25-d544-4561-8d17-0b482d45513d" />
 
-Ref 32: setup a quick http server so our test machine can download malware
+Ref 32: Setup a quick http server so our test machine can download malware.
 
 <img width="885" height="736" alt="disabled virus protection on windows and went to port 9999" src="https://github.com/user-attachments/assets/f4851241-2ed7-40da-b559-e5023e91312d" />
 
-Ref 33: disabled virus protection on windows and went to port 9999
+Ref 33: Disabled virus protection on windows and went to port 9999.
 
 <img width="780" height="567" alt="exe is the true file extention, detectable by extending file name" src="https://github.com/user-attachments/assets/87a06971-2ddf-4575-8017-bd07849658c9" />
 
@@ -160,7 +160,7 @@ Ref 34: .exe is the true file extention, detectable by extending file name.
 
 <img width="352" height="167" alt="want to see established connection to tlinux" src="https://github.com/user-attachments/assets/6fa6a9c8-f529-4fc6-b821-cf836018ccc7" />
 
-Ref 35: want to see established connection to linux.
+Ref 35: Want to see established connection to linux.
 
 <img width="607" height="42" alt="estableshed connection" src="https://github.com/user-attachments/assets/04f5757b-e546-45bc-a805-b2c54cfa20ee" />
 
